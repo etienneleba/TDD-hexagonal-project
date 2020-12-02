@@ -21,4 +21,4 @@ Discover the concepts of DDD, BDD, ATDD, TDD, living documentation and clean arc
 
 ### Docs 
 
-- [How to contribute](#Docs/how_to_contribute.md)
+- [How to contribute](Docs/how_to_contribute.md)
