@@ -19,3 +19,6 @@ Discover the concepts of DDD, BDD, ATDD, TDD, living documentation and clean arc
 - Become mouse-less when programming
 - Master Git/Gitflow/Github and project management   
 
+### Docs 
+
+- [How to contribute](#Docs/how_to_contribute.md)
