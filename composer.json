@@ -11,5 +11,7 @@
             "email": "etienne@lebarillier.fr"
         }
     ],
-    "require": {}
+    "require": {
+        "phpspec/phpspec": "^7.0"
+    }
 }
