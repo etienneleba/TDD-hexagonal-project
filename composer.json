@@ -1,0 +1,15 @@
+{
+    "name": "root/app",
+    "description": "fake project to practive the DDD concepts",
+    "type": "project",
+    "require-dev": {
+        "behat/behat": "^3.8"
+    },
+    "authors": [
+        {
+            "name": "Etienne Leba",
+            "email": "etienne@lebarillier.fr"
+        }
+    ],
+    "require": {}
+}

@@ -1,5 +1,7 @@
 +_07_12_2020
 
+# Rethink the ADR template
+
 ### Context
 
 Currently all the ADR files have the date inside their name and follow the "context, decision, consequences" pattern.
@@ -8,6 +10,8 @@ Currently all the ADR files have the date inside their name and follow the "cont
 
 Put an incremental id for each file in addition of the type (PROJECT, ARCHITECTURAL, TECHNICAL). 
 Inside the file put the date and a marker to know if it is an important ADR or not, this will be the fisrt line of each ADR
+And add a Section _Why_ to the ADR files. 
+And add title for each ADR 
 
 \* = important <br>
 \+ = normal 
