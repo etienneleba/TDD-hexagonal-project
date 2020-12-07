@@ -1,8 +1,15 @@
 version: "3.3"
 
 services:
-  composer:
-    image: composer:2.0.7
+  php:
+    build:
+      context: .
+      dockerfile: ./docker/php/Dockerfile
+      args:
+        USER_ID: ${LOCAL_USER}
+        GROUP_ID: ${LOCAL_USER}
     volumes:
-    - .:/app
+    - .:/usr/src
+    working_dir: /usr/src
+
 
