@@ -1,0 +1,5 @@
+default:
+  suites:
+    catalog_features:
+      paths: [ "%paths.base%/Domain/Catalog/Features" ]
+      contexts: [ Domain\Catalog\Features\Context\CatalogContext ]

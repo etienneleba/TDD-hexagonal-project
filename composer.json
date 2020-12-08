@@ -11,5 +11,11 @@
             "name": "Etienne Leba",
             "email": "etienne@lebarillier.fr"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Domain\\": "Domain"
+        }
+    }
+
 }
