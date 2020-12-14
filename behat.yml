@@ -1,4 +1,6 @@
 default:
+  formatters:
+    pretty: true
   suites:
     catalog_features:
       paths: [ "%paths.base%/Domain/Catalog/Features" ]

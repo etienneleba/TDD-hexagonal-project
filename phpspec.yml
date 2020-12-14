@@ -1,6 +1,0 @@
-suites:
-  catalog_suite:
-    namespace: Domain\Catalog
-    spec_prefix: Specs
-    spec_path: '%paths.config%/Domain/Catalog'
-    src_path: '%paths.config%'
