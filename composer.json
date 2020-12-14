@@ -4,7 +4,8 @@
     "type": "project",
     "require-dev": {
         "behat/behat": "^3.8",
-        "phpspec/phpspec": "^7.0"
+        "spatie/phpunit-watcher": "^1.23",
+        "phpunit/phpunit": "^9.5"
     },
     "authors": [
         {

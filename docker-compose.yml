@@ -10,6 +10,7 @@ services:
         GROUP_ID: ${LOCAL_USER}
     volumes:
     - .:/usr/src
+    - ./docker/php/custom.ini:/usr/local/etc/php/conf.d/custom.ini
     working_dir: /usr/src
 
 

@@ -8,13 +8,13 @@ I'm using phpspec for the TDD
 
 ### Decision
 
-I decide to remove phpspec and use pest instead 
+I decide to remove phpspec and use phpunit instead 
 
 ### Why
 
 Cause phpspec create a test for each class, so your code is very tight with the tests  
-And pest auto-reload each time a file change. 
+And pest auto-reload each time a file change with phpunit watcher. 
 
 ### Consequences 
 
-I remove phpspec and require pest
+I remove phpspec and require phpunit
