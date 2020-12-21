@@ -57,6 +57,28 @@ class CreateLookHandlerTest extends TestCase
         return $createdLook;
     }
 
+    /**
+     * @param array $mannequins
+     * @param array $allExistingParts
+     */
+    public function assertTheLookSMannequinsShouldHaveAPartForEachExistingParts(array $mannequins, array $allExistingParts): void
+    {
+        /**
+         * @var Mannequin $mannequin
+         */
+        foreach ($mannequins as $mannequin) {
+
+            $mannequinParts = $mannequin->getParts();
+            $this->assertCount(count($allExistingParts), $mannequinParts);
+            foreach ($mannequinParts as $mannequinPart) {
+                $this->assertInstanceOf(Part::class, $mannequinPart);
+            }
+            foreach ($allExistingParts as $existingPart) {
+                $this->assertTrue(in_array($existingPart, $mannequinParts));
+            }
+        }
+    }
+
 
     /**
      * SETUP
@@ -119,20 +141,8 @@ class CreateLookHandlerTest extends TestCase
 
         $mannequins = $createdLook->getMannequins();
 
-        /**
-         * @var Mannequin $mannequin
-         */
-        foreach ($mannequins as $mannequin) {
+        $this->assertTheLookSMannequinsShouldHaveAPartForEachExistingParts($mannequins, $allExistingParts);
 
-            $mannequinParts = $mannequin->getParts();
-            $this->assertCount(count($allExistingParts), $mannequinParts);
-            foreach ($mannequinParts as $mannequinPart) {
-                $this->assertInstanceOf(Part::class, $mannequinPart);
-            }
-            foreach ($allExistingParts as $existingPart) {
-                $this->assertTrue(in_array($existingPart, $mannequinParts));
-            }
-        }
     }
 
 
