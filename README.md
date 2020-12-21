@@ -19,6 +19,10 @@ Discover the concepts of DDD, BDD, ATDD, TDD, living documentation and clean arc
 - Become mouse-less when programming
 - Master Git/Gitflow/Github and project management   
 
+### Subject
+
+Create a web app to advice clothes for all morphologies and heights.
+
 ### Docs 
 
 - [How to contribute](docs/how_to_contribute.md)
