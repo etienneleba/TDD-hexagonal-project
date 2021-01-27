@@ -1,4 +1,4 @@
-# DDD-project
+# TDD-hexagonal-project
 
 ## Goal 
 
@@ -13,7 +13,7 @@ Discover the concepts of DDD, BDD, ATDD, TDD, living documentation and clean arc
 - Guide the project with the acceptance tests (acceptance tests driven development)
 - Use tests driven development to guide de development and ensure in consequence the non-regression
 - Document the project with code based documentation (living documentation)
-- Create future-proof and decoupling application thanks to the clean architecture
+- Create future-proof and decoupling application thanks to the hexagonal architecture
 - Delimit the bounded contexts of the project
 - Create a modular monolith based on the bounded contexts
 - Become mouse-less when programming
