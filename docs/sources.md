@@ -28,10 +28,11 @@ EN : [Alpha Code - Mastering the art of designing Microservices Architecture pla
 ### Tactical DDD
 
 FR : [Les patterns tactiques du DDD](https://blog.engineering.publicissapient.fr/2018/06/25/craft-les-patterns-tactiques-du-ddd/) <br>
+EN : [The Art of Discovering Bounded Contexts by Nick Tune](https://www.youtube.com/watch?v=ez9GWESKG4I&feature=youtu.be)
 
 ### Hexagonal/Clean architecture
 
-EN : Uncle Bob - Clean architecture
+EN : Uncle Bob - Clean architecture <br>
 FR : [Coder sans peur du changement, avec la "même pas mal !" architecture hexagonale](https://www.youtube.com/watch?v=wZ7cxcU4iPE)
 
 ### With PHP
