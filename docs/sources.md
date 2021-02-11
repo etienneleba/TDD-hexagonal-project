@@ -17,6 +17,7 @@ EN : [Ciaran McNulty - Driving Design through Examples](https://www.youtube.com/
 FR : [Mickaël Azerhad - BDD/TDD demo part 1](https://www.youtube.com/watch?v=rYX51DaJifw) <br>
 FR : [Mickaël Azerhad - BDD/TDD demo part 2](https://www.youtube.com/watch?v=CMjy7csMMko) <br>
 FR : [Mickaël Azerhad - BDD/TDD demo part 3](https://www.youtube.com/watch?v=HbF4MAr0kk8) <br>
+EN : [Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 
 ### DDD
 
