@@ -27,10 +27,13 @@ EN : Vaughn Vernon - Implementing Domain-Driven Design <br>
 EN : Vaughn Vernon - Domain-Driven Design distilled <br>
 EN : [Alpha Code - Mastering the art of designing Microservices Architecture playlist](https://www.youtube.com/watch?v=wD-d0oZI4YM&list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG) <br>
 
+### Strategic DDD
+
+EN : [The Art of Discovering Bounded Contexts by Nick Tune](https://www.youtube.com/watch?v=ez9GWESKG4I&feature=youtu.be) <br>
+
 ### Tactical DDD
 
 FR : [Les patterns tactiques du DDD](https://blog.engineering.publicissapient.fr/2018/06/25/craft-les-patterns-tactiques-du-ddd/) <br>
-EN : [The Art of Discovering Bounded Contexts by Nick Tune](https://www.youtube.com/watch?v=ez9GWESKG4I&feature=youtu.be)
 
 ### Hexagonal/Clean architecture
 
