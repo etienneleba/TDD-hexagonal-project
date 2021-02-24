@@ -55,4 +55,5 @@ FR : [live coding/refactoring DDD](https://www.youtube.com/watch?v=dzKKqS5ewLg) 
 
 ### External links
 
-[PhpFriendsOfDDD - lots of links about DDD and architecture](https://github.com/PhpFriendsOfDdd/state-of-the-union)
+[PhpFriendsOfDDD - lots of links about DDD and architecture](https://github.com/PhpFriendsOfDdd/state-of-the-union) <br>
+[The Top 30 Hexagonal Architecture Open Source Projects](https://awesomeopensource.com/projects/hexagonal-architecture)
