@@ -52,6 +52,8 @@ FR : [Samuel Roze - Behat, c'est plus que ça](https://www.youtube.com/watch?v=O
 [psinder - PHP real example](https://github.com/psinder/psinder/tree/master/PhpSharedKernel) <br>
 [Neal Brooks - DDD with Symfony](https://github.com/nealio82/absolute-beginners-guide-to-ddd-with-symfony) <br>
 FR : [live coding/refactoring DDD](https://www.youtube.com/watch?v=dzKKqS5ewLg) <br>
+[DDD + hexagonal archi with Symfony](https://dev.to/victoor/ddd-and-hexagonal-architecture-with-symfony-flex-30l9) <br>
+[hexagonal archi with Symfony](https://minompi.medium.com/symfony-and-hexagonal-architecture-b3c4704e94de) <br>
 
 ### External links
 
