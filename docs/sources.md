@@ -6,6 +6,7 @@
 
 FR : [Mickaël Azerhad - BDD, DDD, ATDD et TDD expliqués !](https://www.youtube.com/watch?v=jxBmKvS7lAo) <br>
 FR : [Etre architect logiciel en 2018](https://www.youtube.com/watch?v=1igv2rHGKfo) <br>
+FR : [Arnaud Lemaire - DDD, CQRS, etc](https://www.youtube.com/watch?v=qBLtZN3p3FU)
 
 ### Design patterns / SOLID / Code smells / Refactoring
 
