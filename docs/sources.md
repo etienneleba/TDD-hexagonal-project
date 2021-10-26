@@ -41,6 +41,10 @@ FR : [Les patterns tactiques du DDD](https://blog.engineering.publicissapient.fr
 EN : Uncle Bob - Clean architecture <br>
 FR : [Coder sans peur du changement, avec la "même pas mal !" architecture hexagonale](https://www.youtube.com/watch?v=wZ7cxcU4iPE)
 
+### CQRS 
+
+EN : [Udi Dahan - Clarified CQRS](https://udidahan.com/2009/12/09/clarified-cqrs/)
+
 ### With PHP
 
 EN : Kristopher Wilson - The clean architecture in PHP <br>
