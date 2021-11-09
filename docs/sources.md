@@ -47,7 +47,7 @@ EN : [Udi Dahan - Clarified CQRS](https://udidahan.com/2009/12/09/clarified-cqrs
 
 ### Loosely coupled monolith
 
-EN : [CodeOpinion - Loosely Coupled Monolith](https://www.youtube.com/watch?v=48C-RsEu0BQ&list=PLThyvG1mlMznIDBtd5HadrmC5hayjpCtI) 
+EN : [CodeOpinion - Loosely Coupled Monolith](https://www.youtube.com/watch?v=48C-RsEu0BQ&list=PLThyvG1mlMznIDBtd5HadrmC5hayjpCtI) <br>
 
 ### With PHP
 
@@ -56,7 +56,7 @@ FR : [Samuel Roze - Behat, c'est plus que ça](https://www.youtube.com/watch?v=O
 
 ### Agile 
 
-[lorabv/awesome-agile](https://github.com/lorabv/awesome-agile)
+[lorabv/awesome-agile](https://github.com/lorabv/awesome-agile) <br>
 [Minimum Viable CD](https://minimumcd.org/minimumcd/)
 
 ### Examples 
