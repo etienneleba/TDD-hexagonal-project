@@ -45,6 +45,10 @@ FR : [Coder sans peur du changement, avec la "même pas mal !" architecture hexa
 
 EN : [Udi Dahan - Clarified CQRS](https://udidahan.com/2009/12/09/clarified-cqrs/)
 
+### Loosely coupled monolith
+
+EN : [CodeOpinion - Loosely Coupled Monolith](https://www.youtube.com/watch?v=48C-RsEu0BQ&list=PLThyvG1mlMznIDBtd5HadrmC5hayjpCtI) 
+
 ### With PHP
 
 EN : Kristopher Wilson - The clean architecture in PHP <br>
