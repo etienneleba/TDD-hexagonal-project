@@ -57,6 +57,7 @@ FR : [Samuel Roze - Behat, c'est plus que ça](https://www.youtube.com/watch?v=O
 ### Agile 
 
 [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile)
+[Minimum Viable CD](https://minimumcd.org/minimumcd/)
 
 ### Examples 
 
