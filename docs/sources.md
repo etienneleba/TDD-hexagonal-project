@@ -57,7 +57,11 @@ FR : [Samuel Roze - Behat, c'est plus que ça](https://www.youtube.com/watch?v=O
 ### Agile 
 
 [lorabv/awesome-agile](https://github.com/lorabv/awesome-agile) <br>
-[Minimum Viable CD](https://minimumcd.org/minimumcd/)
+[Minimum Viable CD](https://minimumcd.org/minimumcd/) <br>
+[Agile methodology principles](https://agilemanifesto.org/iso/en/principles.html) <br>
+[Agility in a team](https://www.youtube.com/watch?v=502ILHjX9EE) <br>
+[Agility at scale with spotify](https://www.youtube.com/watch?v=b8PHi1D193k) <br>
+
 
 ### Examples 
 
