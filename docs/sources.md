@@ -61,6 +61,7 @@ FR : [Samuel Roze - Behat, c'est plus que ça](https://www.youtube.com/watch?v=O
 [Agile methodology principles](https://agilemanifesto.org/iso/en/principles.html) <br>
 [Agility in a team](https://www.youtube.com/watch?v=502ILHjX9EE) <br>
 [Agility at scale with spotify](https://www.youtube.com/watch?v=b8PHi1D193k) <br>
+[Feature Toggles: The Good, The Bad, and The Ugly with Andy Davies](https://www.youtube.com/watch?v=r7VI5x2XKXw) <br>
 
 
 ### Examples 
